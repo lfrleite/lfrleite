@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on TFTEC Cloud Services as a Azure Engineer and Support especialist
+- 🔭 I’m currently working on Solo Network Brasil S/A as a Technical Account Manager
 - 🌱 I’m currently learning Iac / DevOps / IA
 - 👯 I’m looking to collaborate on IT Project with Azure Cloud Provider
 
