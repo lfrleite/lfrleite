@@ -8,10 +8,6 @@ Here are some ideas to get you started:
 
 ---
 
-<br>
-
-##
-  
 <!--Cobrinha--> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfrleite/lfrleite/output/github-contribution-grid-snake-dark.svg">
