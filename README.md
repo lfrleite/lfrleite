@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Azure | Microsoft 365 | FinOps | Governança | Automação | TAM | MCT**
+**Azure | Microsoft 365 | FinOps | Governança | Automação | MCT**
 
 <a href="https://www.linkedin.com/in/luizrleite/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38"></a>
 <a href="https://blog.ruizsolutions.online/"><img src="https://img.shields.io/badge/Blog%20T%C3%A9cnico-1A395B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog técnico Ruiz Solutions" height="38"></a>
