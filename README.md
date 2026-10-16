@@ -81,12 +81,12 @@ Minha rotina envolve entender ambientes, investigar problemas, recomendar melhor
   <img src="https://streak-stats.demolab.com?user=lfrleite&background=0B1B2E&ring=4C9AFF&fire=68BDF6&currStreakLabel=4C9AFF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA7B4&stroke=1E3352&hide_border=true&border_radius=12&locale=pt_BR" alt="Sequência de contribuições no GitHub de Luiz Felipe" height="170">
 </div>
 
-### Contribuições no GitHub
+### Pac-Man das contribuições
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfrleite/lfrleite/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfrleite/lfrleite/output/github-contribution-grid-snake.svg">
-  <img alt="Animação do histórico de contribuições do GitHub" src="https://raw.githubusercontent.com/lfrleite/lfrleite/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfrleite/lfrleite/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfrleite/lfrleite/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man animado percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/lfrleite/lfrleite/output/pacman-contribution-graph.svg">
 </picture>
 </div>
