@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# Fala, pessoALL!
-
 **Azure | Microsoft 365 | FinOps | Governança | Automação | TAM | MCT**
 
 <a href="https://www.linkedin.com/in/luizrleite/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38"></a>
