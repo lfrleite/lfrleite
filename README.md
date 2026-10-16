@@ -14,6 +14,23 @@
 
 ---
 
+### Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lfrleite&show_icons=true&include_all_commits=true&bg_color=0B1B2E&title_color=4C9AFF&icon_color=68BDF6&text_color=E6EDF3&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de Luiz Felipe" height="170">
+  <img src="https://streak-stats.demolab.com?user=lfrleite&background=0B1B2E&ring=4C9AFF&fire=68BDF6&currStreakLabel=4C9AFF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA7B4&stroke=1E3352&hide_border=true&border_radius=12&locale=pt_BR" alt="Sequência de contribuições no GitHub de Luiz Felipe" height="170">
+</div>
+
+### Pac-Man das contribuições
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfrleite/lfrleite/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfrleite/lfrleite/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man animado percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/lfrleite/lfrleite/output/pacman-contribution-graph.svg">
+</picture>
+</div>
+
 ### Sobre mim
 
 Sou **Luiz Felipe Ruiz Leite**, **Technical Account Manager (TAM)** na **Solo Network** e **Microsoft Certified Trainer (MCT)**. Trabalho com tecnologias Microsoft, especialmente **Azure e Microsoft 365**, conectando as necessidades de negócio às decisões técnicas do dia a dia.
@@ -73,20 +90,3 @@ Minha rotina envolve entender ambientes, investigar problemas, recomendar melhor
 ![Azure Cost Management](https://img.shields.io/badge/Cost%20Management-356888)
 ![Azure Advisor](https://img.shields.io/badge/Azure%20Advisor-1776B6)
 ![Azure Update Manager](https://img.shields.io/badge/Azure%20Update%20Manager-486B8C)
-
-### Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lfrleite&show_icons=true&include_all_commits=true&bg_color=0B1B2E&title_color=4C9AFF&icon_color=68BDF6&text_color=E6EDF3&hide_border=true&border_radius=12" alt="Estatísticas do GitHub de Luiz Felipe" height="170">
-  <img src="https://streak-stats.demolab.com?user=lfrleite&background=0B1B2E&ring=4C9AFF&fire=68BDF6&currStreakLabel=4C9AFF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA7B4&stroke=1E3352&hide_border=true&border_radius=12&locale=pt_BR" alt="Sequência de contribuições no GitHub de Luiz Felipe" height="170">
-</div>
-
-### Pac-Man das contribuições
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfrleite/lfrleite/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfrleite/lfrleite/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man animado percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/lfrleite/lfrleite/output/pacman-contribution-graph.svg">
-</picture>
-</div>
