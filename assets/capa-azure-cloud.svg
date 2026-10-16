@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="350" viewBox="0 0 1400 350" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Felipe Ruiz Leite — Microsoft Azure, FinOps e Automação</title>
+  <desc id="desc">Capa azul escura com elementos geométricos de nuvem e rede, nome e atuação profissional.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071525"/>
+      <stop offset="0.55" stop-color="#0D2845"/>
+      <stop offset="1" stop-color="#153E67"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55C6FF"/>
+      <stop offset="1" stop-color="#63A6FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2472AD" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2472AD" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8AC8FF" stroke-width="0.65" opacity="0.13"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="350" rx="18" fill="url(#bg)"/>
+  <rect width="1400" height="350" rx="18" fill="url(#grid)"/>
+  <circle cx="1180" cy="170" r="280" fill="url(#glow)"/>
+  <rect x="58" y="58" width="6" height="234" rx="3" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="94" y="92" font-size="17" font-weight="700" letter-spacing="3.5" fill="#89CFFF">AZURE  /  MICROSOFT 365  /  FINOPS</text>
+    <text x="92" y="161" font-size="51" font-weight="700" fill="#F5FAFF">LUIZ FELIPE</text>
+    <text x="92" y="218" font-size="51" font-weight="700" fill="#F5FAFF">RUIZ LEITE</text>
+    <text x="94" y="259" font-size="20" font-weight="500" fill="#D0E2F4">Technical Account Manager  |  Microsoft Certified Trainer</text>
+    <text x="94" y="300" font-size="15" letter-spacing="1.8" fill="#8FB5D8">GOVERNANÇA  ·  AUTOMAÇÃO  ·  CONTEÚDO TÉCNICO</text>
+  </g>
+  <g transform="translate(1107,169)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="126" stroke="#6CA8DA" stroke-opacity="0.23" stroke-width="2"/>
+    <circle r="97" stroke="#6CA8DA" stroke-opacity="0.37" stroke-width="2"/>
+    <circle r="66" stroke="#73D0FF" stroke-opacity="0.5" stroke-width="2"/>
+    <path d="M-58 19h115c17 0 28-12 28-27 0-16-12-28-27-29-6-26-28-43-54-43-23 0-44 15-51 37-22-4-43 11-43 32 0 17 14 30 32 30z" stroke="url(#accent)" stroke-width="5"/>
+    <circle cx="0" cy="19" r="5" fill="#9DDCFF" stroke="none"/>
+    <path d="M0 26v38M0 64h-75M0 64h75M-75 64v26M75 64v26" stroke="#74BDEA" stroke-width="3"/>
+    <circle cx="-75" cy="93" r="8" fill="#9DDCFF" stroke="none"/>
+    <circle cx="75" cy="93" r="8" fill="#9DDCFF" stroke="none"/>
+    <circle cx="0" cy="64" r="8" fill="#9DDCFF" stroke="none"/>
+    <circle cx="-126" cy="0" r="5" fill="#5FAFFA" stroke="none"/>
+    <circle cx="95" cy="-78" r="5" fill="#5FAFFA" stroke="none"/>
+    <circle cx="85" cy="93" r="4" fill="#5FAFFA" stroke="none"/>
+  </g>
+</svg>
